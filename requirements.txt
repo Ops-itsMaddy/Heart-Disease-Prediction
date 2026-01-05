@@ -1,0 +1,6 @@
+# Data Manipulation
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
